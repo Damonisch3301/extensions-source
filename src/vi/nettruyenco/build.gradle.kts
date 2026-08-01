@@ -13,6 +13,6 @@ keiyoushi {
 
     source {
         lang = "vi"
-        baseUrl = "https://nettruyen12scom"
+        baseUrl = "https://nettruyen12s.com"
     }
 }
